@@ -1,7 +1,17 @@
 ### Federated Learning with Arbitrary Client Participation
 
 This is the official code for the paper:
-- Shiqiang Wang, Mingyue Ji, "[A Unified Analysis of Federated Learning with Arbitrary Client Participation](https://arxiv.org/abs/2205.13648)", in NeurIPS 2022.
+- Shiqiang Wang, Mingyue Ji, "[A Unified Analysis of Federated Learning with Arbitrary Client Participation](https://arxiv.org/abs/2205.13648)," in NeurIPS 2022.
+    ```
+    @inproceedings{wang2022unified,
+     author = {Wang, Shiqiang and Ji, Mingyue},
+     booktitle = {Advances in Neural Information Processing Systems},
+     pages = {19124-19137},
+     title = {A Unified Analysis of Federated Learning with Arbitrary Client Participation},
+     volume = {35},
+     year = {2022}
+    }
+    ```
 
 The code was run successfully in the following environment: Python 3.8, PyTorch 1.7, Torchvision 0.8.1
 
